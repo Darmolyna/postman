@@ -1,0 +1,33 @@
+{
+	"id": "3d04b8bb-1753-4ed9-8cd1-0577d2890326",
+	"values": [
+		{
+			"key": "uuid",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Key",
+			"value": "902538dbf08ab73b8bb18321dc3eefef",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Token",
+			"value": "9b3d8ed1cfd5666f426ba12e246b2864f23e24d6b1c885019548f06628cae59a",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "boardID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2022-09-23T04:25:16.026Z",
+	"_postman_exported_using": "Postman/9.30.4"
+}
